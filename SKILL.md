@@ -1,3 +1,3 @@
-# Review Evaluate Core
+# review-evaluate-core
 
-이 스킬은 코드 리뷰와 평가를 수행하는 로직을 제공합니다.
+This skill provides core logic for reviewing and evaluating code.
